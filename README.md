@@ -1,0 +1,2 @@
+# crazyrichcrypto
+Static Server
